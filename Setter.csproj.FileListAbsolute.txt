@@ -1,0 +1,15 @@
+C:\Users\t20083\source\repos\Setter\Setter\bin\Debug\Setter.exe.config
+C:\Users\t20083\source\repos\Setter\Setter\bin\Debug\Setter.exe
+C:\Users\t20083\source\repos\Setter\Setter\bin\Debug\Setter.pdb
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter.csproj.AssemblyReference.cache
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\MainWindow.g.cs
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\App.g.cs
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter_MarkupCompile.cache
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter_MarkupCompile.lref
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\MainWindow.baml
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter.g.resources
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter.Properties.Resources.resources
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter.csproj.GenerateResource.cache
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter.csproj.CoreCompileInputs.cache
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter.exe
+C:\Users\t20083\source\repos\Setter\Setter\obj\Debug\Setter.pdb
